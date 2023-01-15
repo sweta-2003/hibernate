@@ -2,5 +2,5 @@
 CREATE
 READ
 UPDATE
-DELETE  using HIBERNATES 
+DELETE operation is done using HIBERNATE
 and it is tested with postman
